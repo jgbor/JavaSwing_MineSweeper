@@ -1,2 +1,3 @@
 # JavaSwing_MineSweeper
-MineSweeper in Java
+
+MineSweeper in Java, university project from autumn 2021
